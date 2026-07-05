@@ -18,12 +18,12 @@
     "@actions/io": "^2.0.0"
   },
   "devDependencies": {
-    "@vercel/ncc": "^0.38.3",
-    "eslint": "^10.2.0",
+    "@vercel/ncc": "^0.44.0",
+    "eslint": "^10.6.0",
     "husky": "^9.1.7",
-    "jest": "^30.2.0",
-    "lint-staged": "^16.3.2",
-    "prettier": "3.8.2"
+    "jest": "^30.4.2",
+    "lint-staged": "^17.0.8",
+    "prettier": "3.9.3"
   },
   "overrides": {
     "glob": ">=13.0.6",
